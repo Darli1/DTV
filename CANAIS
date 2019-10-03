@@ -7,13 +7,9 @@
 </item>
 
 
-url="https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1"
-img="http://server3.redecanais.tv/imgs-videos/AeE.jpg"
-name="A&E"
-
 <item>
 <title>FOX SPORTE 1</title>
-<link>https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1</link>
+<link>plugin://plugin.video.f4mTester/? https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 <info>SINOPE</info>
