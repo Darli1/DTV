@@ -6,13 +6,10 @@
 <info>SINOPE</info>
 </item>
 
-#EXTINF:-1 tvg-logo="sbt.png" group-title="CANAIS - TV ABERTA",[B][COLOR white]SBT[/COLOR][/B]
-plugin://plugin.video.f4mTester/?name=[B][COLOR lime]TWT[/COLOR] - [COLOR white]SBT[/COLOR][/B]&streamtype=HLSRETRY&amp;url=https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1
-
 
 <item>
 <title>FOX SPORTE 1</title>
-<link>https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1</link>
+<link>plugin://plugin.video.f4mTester/?https://canaisgratis.top/player3/canais.php?canal=foxsports1&img=foxsports1</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>IMAGEM DE FUNDO</fanart>
 <info>SINOPE</info>
