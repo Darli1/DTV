@@ -1,8 +1,15 @@
 <item>
-<title>TITULO</title>
+<title>POSEIDON</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/yeiCuwMSHLmf7NoYzxiEAjkJHkg.jpg</thumbnail>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>SINOPE</info>
 </item>
 
+<item>
+<title>TBRINQUEDO ASSASSINO 2019</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYU5AzbyUgVPY8G3jgSQ3xyz7D5.jpg</thumbnail>
+<fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
+<info>SINOPE</info>
+</item>
