@@ -2,7 +2,7 @@
 <title>TITULO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
 <thumbnail>ICONE</thumbnail>
-<fanart>IMAGENS DE FUNDO</fanart>
+<fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>SINOPE</info>
 </item>
 
