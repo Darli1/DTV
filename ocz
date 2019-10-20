@@ -1,13 +1,11 @@
-<channels>
-<channel>
+<item>
 <name>[COLOR orangered]|||[/COLOR] [COLOR red]SAGA SANTUARIO[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail>https://1.bp.blogspot.com/-eJirz2t2mQk/Vd0aIuHs3oI/AAAAAAAABaA/_bixb9-FTVk/s1600/Os%2BCavaleiros%2Bdo%2BZod%25C3%25ADaco%2B%25E2%2580%2593%2BSaga%2BTorneio%2BGal%25C3%25A1ctico.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>
 </info>
-</channel>
-</channels>
+</item>
 
 
 <item>
@@ -58,7 +56,7 @@
 <info>SINOPE</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>Episódio 007 - A Vingança do Cavaleiro Fênix </title>
@@ -132,8 +130,7 @@
 <info>SINOPE</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <item>
@@ -192,7 +189,7 @@
 <info>SINOPE</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>Episódio 023 - O Anjo da Morte </title>
 <link>http://cdnfe2.azureedge.net/RCServer01/videos/OCDZEP023.mp4?attachment=true</link>
@@ -298,7 +295,7 @@
 </item>
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>Episódio 036 - As Doze Armaduras de Ouro - Dublado</title>
@@ -349,7 +346,7 @@
 </item>
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>Episódio 042 - Cosmo Final </title>
@@ -609,17 +606,15 @@
 <info>SINOPE</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>
-<channel>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <name>[COLOR orangered]|||[/COLOR] [COLOR red]SAGA ASGARD[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail>https://redecanais.rocks/player3/imgs-videos/Os%20Cavaleiros%20do%20Zodíaco%20Capa2.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>
 </info>
-</channel>
-</channels>
+</item>
 
 <item>
 <title>Episódio 074 - Inimigos do Extremo Norte! Os Lendarios Guerreiros Deuses</title>
@@ -830,17 +825,16 @@
 
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>
-<channel>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
 <name>[COLOR orangered]|||[/COLOR] [COLOR red]SAGA DE POSEIDON[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail>https://redecanais.rocks/player3/imgs-videos/Os%20Cavaleiros%20do%20Zodíaco%20Capa3.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>
 </info>
-</channel>
-</channels>
+</item>
 
 <item>
 <title>Episódio 100 - Poseidon, o Imperador do Oceano</title>
@@ -963,17 +957,15 @@
 </item>
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>
-<channel>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <name>[COLOR orangered]|||[/COLOR] [COLOR red]SAGA DE HADES[/COLOR] [COLOR orangered]|||[/COLOR]</name>
 <thumbnail>https://redecanais.rocks/player3/imgs-videos/Os%20Cavaleiros%20do%20Zodíaco%20Capa3.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>
 </info>
-</channel>
-</channels>
+</item>
 
 <item>
 <title>Episódio Extra - Episódio Zero </title>
@@ -1087,9 +1079,7 @@
 <info>SINOPE</info>
 </item>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
 <title>Episódio 128 - Cruzem o Rio Aqueronte  </title>
@@ -1188,8 +1178,7 @@
 </item>
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>Episódio 140 - Rumo aos Elíseos  </title>
 <link>http://cdnfe2.azureedge.net/RCServer01/videos/OCDZEP140.mp4?attachment=true</link>
