@@ -8,19 +8,12 @@
 
 <item>
 <title>A Forca</title>
-<link>http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA.mp4?</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rDdlBi9KS2sH3lbQsWqsNnnxd1GU1dKD/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/jilWJ1meQbO37qvV3fwhxWLF2jA.jpg</thumbnail>
 <fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
 <info>SINOPE</info>
 </item>
 
-<item>
-<title>GUERRAS NA ESTRADA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-2XjhG6L82K9iaimMw_UetYbZSp1L-lt/view</link>
-<thumbnail>https://i.imgur.com/aHhMoxC.jpg</thumbnail>
-<fanart>https://ia601401.us.archive.org/16/items/fanart_201910/fanart.jpg</fanart>
-<info>SINOPE</info>
-</item>
 
 <item>
 <title>BOLT: SUPERCÃO</title>
